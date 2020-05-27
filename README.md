@@ -1,4 +1,4 @@
-# Note Taker WWe
+# Note Taker Web-App
 
 https://week11-note-taker.herokuapp.com/notes
 
