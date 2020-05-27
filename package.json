@@ -19,11 +19,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pmscad/NoteTaker.git"
+    "url": "git+https://github.com/kane-r/NoteTaker.git"
   },
   "bugs": {
-    "url": "https://github.com/pmscad/NoteTaker/issues"
+    "url": "https://github.com/kane-r/NoteTaker/issues"
   },
-  "homepage": "https://github.com/pmscad/NoteTaker#readme",
+  "homepage": "https://github.com/kane-r/NoteTaker#readme",
   "devDependencies": {}
 }
